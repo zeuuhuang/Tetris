@@ -69,18 +69,3 @@ there shouldn't be other edge cases.
 The specific mechanics of playing my game may trigger different edge cases
 and cause error. All in all, this game is designed to be played. If there
 isn't any error while playing the game, it is working well.
-
-#3 VIM/Linux Question
-*Vim related quetions*
-1. In the command mode, type the line number and press Shift-g.
-2. In the command mode, press u key.
-3. type / or ? key followed by onomatopoeia and press enter. Press n key
-and go directily to the next occurrence of onomatopoeia.
-4. gvim -p filename1 filname2 ... filenameN
-5. :n	:prev
-*Unix/Linux-related questions*
-1. find dir -type f - name "\*.class" - delete
-2. cp ../../../fubar.java
-3. retrieve the information of the command cat
-4. grep "pattern" * -r
-5. tail -15 foobar.java
