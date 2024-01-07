@@ -1,9 +1,4 @@
 #1 Program Description
-Fills lines with different pieces; the lines doesn't have to be consistent.
-Once a line is filled, it can be cleared, and this clearedLine record is 
-your score of the game. You can rotate, move, drop and store the pieces. You
-may also save your game for future use. Have fun!
-
 The basic command of this game:
  a-move left
  d-move right
@@ -64,8 +59,3 @@ read normal files. We then need to check if the grid is in specific
 conditions and process these conditions. The methods that changes the grid
 is the clearedLines. The hint also give the case of game over file, so
 there shouldn't be other edge cases.
-
-- 3
-The specific mechanics of playing my game may trigger different edge cases
-and cause error. All in all, this game is designed to be played. If there
-isn't any error while playing the game, it is working well.
