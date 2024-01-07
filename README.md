@@ -24,8 +24,8 @@ The basic command of this game:
 
 
 #2 How Did You Test Your Program?
-- 1
-First, test all the command to see if they are functioning correctly.
+
+1. First, test all the command to see if they are functioning correctly.
 Second, check method written by myself one by one in the tetris class.
 
 Use shape "I" to check the rotation output, rotation at boundaries, drop,
@@ -41,8 +41,7 @@ Output the file and use the output file to test the second constructor.
 Create a new file which has one line already filled.
 Create a new file which is game over when the first active piece is created.
 
-- 2
-The "I" is 4x4 tiles with enpty rows from both sides and rotates first
+2. The "I" is 4x4 tiles with enpty rows from both sides and rotates first
 counterclockwise and then clockwise.
 The "J" is 3x3 tiles and always rotates clockwise.
 The "O" is 2x2 tiles and always rotates clockwise.
